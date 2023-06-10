@@ -292,13 +292,12 @@ public class MainActivity extends AppCompatActivity {
 ### OUTPUT
 
 
-![](https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%201.jpg)
+![](https://github.com/sreevarshad/EXP-9-MAD/blob/main/mmm%209.png)
 
-![](https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%202.jpg)
 
-![](https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%203.jpg)
+<img src="https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%201.jpg" width=300 height=400> <img src="https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%202.jpg" width=300 height=400>
 
-![](https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%205.png)
+<img src="https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%203.jpg" width=300 height=400> <img src="https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%204.jpg" width=300 height=400>
 
 
 
